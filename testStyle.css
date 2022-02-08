@@ -1,0 +1,15 @@
+.image-slider{
+    padding: 30px 0 70px 0;
+}
+.image-slider__wrapper{
+
+}
+.image-slider__slide{
+
+}
+.image-slider__image{
+    text-align: center;
+}
+.image-slider__image img{
+    max-width: 100%;
+}
