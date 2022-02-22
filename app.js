@@ -152,6 +152,7 @@ new Swiper('.cards-slider',{
     navigation:{
         nextEl:'.card-btn-next',
         prevEl:'.card-btn-prev'},
+
     // pagination:{
     //     el:'.swiper-pagination',
     //     clickable:true,
